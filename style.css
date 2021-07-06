@@ -62,15 +62,19 @@ section{
             
             background-color: tan;
             color: white;
+           
         }
         .title{
             font-size: 2rem;
             text-align: center;
+            border-radius: 50px;
+            
         }
         .title-body .dese{
             text-align: justify;
             line-height: 1.5;
             color: white;
+            border-radius: 50px;
            
             
 
@@ -82,6 +86,47 @@ section{
            padding: 20px 20px;
            justify-content: center;
            align-items: center;
+           border-radius: 50px;
+           
+        }
+        footer p{
+            text-align: left;
+        }
+        .link{
+            text-decoration: none;
+            text-align: center;
         } 
+    .help{
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .food{
+        color: chocolate;
+    }
+    .happy{
+        background-color: darkgray;
+        border-radius: 20px;
+        padding: 20px;
+    }
+    .all{
+        background-color: olivedrab;
+        padding: 10px 40px;
+        border-radius: 20px;
+        margin: 15px;
+    }
+    .followers{
+        text-align: center;
+        padding-left: 300px;
+        margin-left: 10px;
+    }
+    .likes{
+        text-align: right;
+        padding-left: 400px;
+        
+    } .target{
+        padding:10px 200px 150px 500px;
+    }
+       
 
     
