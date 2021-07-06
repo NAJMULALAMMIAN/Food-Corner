@@ -13,9 +13,27 @@ section{
      margin-left: 10px;
 }
 .half-width{
-    width: 50%;
-    padding-left: 5px;
-}.half-width img{
     width: 100%;
+    padding-left: 50px;
 }
-    
+.half-width img{
+    width: 50%;
+    padding-left: 200px;
+    padding-top: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgba(50, 66, 17, 0.426);
+    padding: 10px 40px;
+    border-radius: 20px;
+
+    }
+    .background{
+        background-image: url(7.png);
+        background-repeat: no-repeat;
+       background-position-y: top;
+       background-size: 100%;
+       margin-top: 50px;
+
+
+    }
