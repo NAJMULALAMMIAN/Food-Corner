@@ -37,3 +37,51 @@ section{
 
 
     }
+    .cental{
+        text-align: center;
+        font-size: 50px;
+
+    }
+    .text{
+        text-align: center;
+        font-size: 25px;
+    }
+    .box{
+        width: 300px;
+       box-sizing: border-box;
+        margin: 10px;
+        box-shadow: 1px 2px 4px black;
+        
+        padding: 20px;
+    }
+    .width{
+        width: 100%;}
+
+        .title-body{
+            padding: 20px;
+            
+            background-color: tan;
+            color: white;
+        }
+        .title{
+            font-size: 2rem;
+            text-align: center;
+        }
+        .title-body .dese{
+            text-align: justify;
+            line-height: 1.5;
+            color: white;
+           
+            
+
+         } 
+        .title-containers{ 
+           box-sizing: border-box;
+           display: flex;
+           background-color: turquoise;
+           padding: 20px 20px;
+           justify-content: center;
+           align-items: center;
+        } 
+
+    
